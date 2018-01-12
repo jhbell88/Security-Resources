@@ -34,3 +34,8 @@ My Security Twitter List: https://twitter.com/ArchitectOfDoom/lists/infosec
 * https://github.com/sbilly/awesome-security - Awesome Security - curated list of resources
 * https://github.com/MonroCoury/Forensic-Tools - Forensics Tools
 * https://github.com/rough007/CCF-VM - Forsensics Tool
+
+### Websites
+* https://arstechnica.com/
+* https://news.ycombinator.com/
+* 
