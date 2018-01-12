@@ -1,5 +1,5 @@
 # Security-Resources
-##### My personal collection of Security Resources from various places
+##### My personal collection of Security Resources from various places  :notebook:
 
 
 ### Twitter
