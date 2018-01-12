@@ -30,7 +30,7 @@ My Security Twitter List: https://twitter.com/ArchitectOfDoom/lists/infosec
 
 ### GitHub
 * https://github.com/rpgeeganage/file-less-ransomware-demo - Fileless Ransomware Demo
-* https://github.com/onlurking/awesome-infosec - Awesome InfoSec - curated list of resources *Lots of good lists at the bottom of this one.*
+* https://github.com/onlurking/awesome-infosec - Awesome InfoSec - curated list of resources #######*Lots of good lists at the bottom of this one.*
 * https://github.com/sbilly/awesome-security - Awesome Security - curated list of resources
 * https://github.com/MonroCoury/Forensic-Tools - Forensics Tools
 * https://github.com/rough007/CCF-VM - Forsensics Tool
