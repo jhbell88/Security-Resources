@@ -35,7 +35,8 @@ My Security Twitter List: https://twitter.com/ArchitectOfDoom/lists/infosec
 * https://github.com/MonroCoury/Forensic-Tools - Forensics Tools
 * https://github.com/rough007/CCF-VM - Forsensics Tool
 * https://github.com/NextronSystems/APTSimulator - Advanced Persistent Threat Simulator
-* https://github.com/samratashok/nishang - Nishang - PowerShell for penetration testing and offensive security. 
+* https://github.com/samratashok/nishang - Nishang - PowerShell for penetration testing and offensive security.
+* https://github.com/besimorhino/powercat - Netcat: The powershell version.
 
 ### Websites
 * https://arstechnica.com/
