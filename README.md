@@ -37,6 +37,9 @@ My Security Twitter List: https://twitter.com/ArchitectOfDoom/lists/infosec
 * https://github.com/NextronSystems/APTSimulator - Advanced Persistent Threat Simulator
 * https://github.com/samratashok/nishang - Nishang - PowerShell for penetration testing and offensive security.
 * https://github.com/besimorhino/powercat - Netcat: The powershell version.
+* https://github.com/rshipp/awesome-malware-analysis - A curated list of awesome malware analysis tools
+* https://github.com/ytisf/theZoo - Malware Samples
+* 
 
 ### Websites
 * https://arstechnica.com/
