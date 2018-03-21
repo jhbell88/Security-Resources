@@ -42,6 +42,7 @@ My Security Twitter List: https://twitter.com/ArchitectOfDoom/lists/infosec
 * https://github.com/atmoner/Ustealer - steal ubuntu information in local pc 
 * https://github.com/wolfvan/some-samples/ - Malware captured with honeypots 
 * https://github.com/HynekPetrak/javascript-malware-collection - Collection of almost 40.000 javascript malware samples 
+* https://github.com/pe3zx/malwaresearch - Find Malware Sample with MD5, SHA1, SHA256 Hash on Internet 
 
 ### Websites
 * https://arstechnica.com/
