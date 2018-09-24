@@ -45,6 +45,7 @@ My Security Twitter List: https://twitter.com/ArchitectOfDoom/lists/infosec
 * https://github.com/pe3zx/malwaresearch - Find Malware Sample with MD5, SHA1, SHA256 Hash on Internet 
 * https://github.com/danielmiessler/SecLists - SecLists is the security tester's companion
 * https://github.com/PaulSec/DET - Data Exfiltration Toolkit
+* https://github.com/besimorhino/powercat - Powershell version of NetCat
 
 ### Websites
 * https://arstechnica.com/
