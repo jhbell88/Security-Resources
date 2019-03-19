@@ -46,6 +46,7 @@ My Security Twitter List: https://twitter.com/ArchitectOfDoom/lists/infosec
 * https://github.com/danielmiessler/SecLists - SecLists is the security tester's companion
 * https://github.com/PaulSec/DET - Data Exfiltration Toolkit
 * https://github.com/besimorhino/powercat - Powershell version of NetCat
+* https://github.com/meirwah/awesome-incident-response#linux-evidence-collection - Awesome Incident Response tools
 
 ### Websites
 * https://arstechnica.com/
