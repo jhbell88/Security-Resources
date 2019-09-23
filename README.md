@@ -51,5 +51,4 @@ My Security Twitter List: https://twitter.com/ArchitectOfDoom/lists/infosec
 ### Websites
 * https://arstechnica.com/
 * https://news.ycombinator.com/
-* www.hackinsight.org/news.html
 * 
